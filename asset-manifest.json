@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/quto-random/static/css/main.9a06a19c.css",
+    "main.js": "/quto-random/static/js/main.0545476d.js",
+    "static/js/787.5d3a90fe.chunk.js": "/quto-random/static/js/787.5d3a90fe.chunk.js",
+    "index.html": "/quto-random/index.html",
+    "main.9a06a19c.css.map": "/quto-random/static/css/main.9a06a19c.css.map",
+    "main.0545476d.js.map": "/quto-random/static/js/main.0545476d.js.map",
+    "787.5d3a90fe.chunk.js.map": "/quto-random/static/js/787.5d3a90fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a06a19c.css",
+    "static/js/main.0545476d.js"
+  ]
+}
